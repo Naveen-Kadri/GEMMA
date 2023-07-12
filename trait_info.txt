@@ -1,0 +1,60 @@
+abv	cat	def	mycat
+ggd	Calving Ease direct	Geburtsgewicht direkt	Calving_Ease_direct
+lgd	Calving Ease direct	Anteil Lebendgeburten direkt	Calving_Ease_direct
+ngd	Calving Ease direct	Anteil Normalgeburten direkt	Calving_Ease_direct
+tdd	Calving Ease direct	Trachtigkeitsdauer direkt	Calving_Ease_direct
+ggm	Calving Ease Maternal	Geburtsgewicht maternal (weight of the calves)	Calving_Ease_Maternal
+lgm	Calving Ease Maternal	Anteil Lebendgeburten maternal (% of living calves)	Calving_Ease_Maternal
+ngm	Calving Ease Maternal	Anteil Normalgeburten maternal (normal calving maternal)	Calving_Ease_Maternal
+tdm	Calving Ease Maternal	Trachtigkeitsdauer maternal (gestation period maternal)	Calving_Ease_Maternal
+scs	cell count	Zellzahl	cell_count
+nrk	Fertility	Non Return Rate Kuh (cow)	Fertility
+nrr	Fertility	Non Return Rate Rind (heifer)	Fertility
+raz	Fertility	Rastzeit	Fertility
+vzk	Fertility	Verzogerungszeit Rind ()	Fertility
+vzr	Fertility	Verzogerungszeit Rind ()	Fertility
+ahb	Linear conformation trait	Aufhangung vorn	Linear_conformation_trait
+ahh	Linear conformation trait	Aufhangung vorn	Linear_conformation_trait
+avo	Linear conformation trait	Aufhangung vorn	Linear_conformation_trait
+bebm	Linear conformation trait	Beckenbreite	Linear_conformation_trait
+bec	Linear conformation trait	Becken	Linear_conformation_trait
+belm	Linear conformation trait	Beckenlange	Linear_conformation_trait
+bem	Linear conformation trait	Bemuskelung	Linear_conformation_trait
+ben	Linear conformation trait	Beckenneigung	Linear_conformation_trait
+brb	Linear conformation trait	Brustbreite (chest width)	Linear_conformation_trait
+eti	Linear conformation trait	Eutertiefe	Linear_conformation_trait
+eub	Linear conformation trait	Euterboden	Linear_conformation_trait
+eut	Linear conformation trait	Euter	Linear_conformation_trait
+fes	Linear conformation trait	Fesseln	Linear_conformation_trait
+fltm	Linear conformation trait	Flankentiefe	Linear_conformation_trait
+ges	Linear conformation trait	Gesamtnote	Linear_conformation_trait
+gli	Linear conformation trait	Gliedmassen / Fundament	Linear_conformation_trait
+kbhm	Linear conformation trait	Grosse (Kreuzbeinhohe); size	Linear_conformation_trait
+kla	Linear conformation trait	Klauensatz	Linear_conformation_trait
+lau	Linear conformation trait	Lage Umdreher	Linear_conformation_trait
+lve	Linear conformation trait	Lange Voreuter	Linear_conformation_trait
+obl	Linear conformation trait	Obere Linie	Linear_conformation_trait
+rah	Linear conformation trait	Rahmen	Linear_conformation_trait
+spa	Linear conformation trait	Sprunggelenksauspragung	Linear_conformation_trait
+spw	Linear conformation trait	Sprunggelenkswinkelung	Linear_conformation_trait
+zba	Linear conformation trait	Zentralband	Teat
+zid	Linear conformation trait	Zitzendicke	Teat
+zla	Linear conformation trait	Zitzenlange	Teat
+zst	Linear conformation trait	Zitzenstellung	Teat
+zvh	Linear conformation trait	Zitzenverteilung hinten	Teat
+zvv	Linear conformation trait	Zitzenverteilung vorn	Teat
+ekg	milk production	Eiweiss kg (protein yield)	milk_production
+epr	milk production	Eiweiss % (protein percentage)	milk_production
+fkg	milk production	Fett kg (Fat yield)	milk_production
+fpr	milk production	Fett % (Fat percentage)	milk_production
+mkg	milk production	Milch kg	milk_production
+mbk	Milking ability	Melkbarkeit	Milking_ability
+per	persisance of milk yield	Persistenz	persisance_of_milk_yield
+ndd	Productive Lifetime	Nutzungsdauer direkt 	Productive_Lifetime
+cca	Slaughtering chracteristics Adults	Fleischigkeit Banktiere (Grading meat value)	Slaughtering_chracteristics_Adults
+cfa	Slaughtering chracteristics Adults	Fettabdeckung Banktiere (fat grading)	Slaughtering_chracteristics_Adults
+cwa	Slaughtering chracteristics Adults	Schlachtgewicht Banktiere (carcass weight)	Slaughtering_chracteristics_Adults
+ccc	Slaughtering traits Calves	Fleischigkeit Bankkalber	Slaughtering_traits_Calves
+cfc	Slaughtering traits Calves	Fleischigkeit Bankkalber	Slaughtering_traits_Calves
+cwc	Slaughtering traits Calves	Schlachtgewicht Bankber	Slaughtering_traits_Calves
+mar	Mastitis	NA	Mastitis
